@@ -1,0 +1,56 @@
+.main_wrapper {
+    height: 100vh;
+    width: 100%;
+    /* overflow: hidden; */
+    background-image: url(http://news.nationalgeographic.com/content/dam/news/photos/000/755/75552.ngsversion.1422285553360.adapt.1900.1.jpg);
+    background-size: cover;
+}
+
+.main_header {
+    height: 65px;
+    width: 100%;
+    padding: 20px 100px;
+    color: #fff;
+}
+
+.logo {
+    float: left;
+}
+
+.main_nav {
+    float: right
+}
+
+.main_nav li {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.content_section {
+    padding-left: 100px;
+    margin-top: 20vh;
+    float: left;
+}
+
+.value_prop {
+    font-size: 65px;
+    font-weight: 200;
+    color: #fff;
+    margin-bottom: 40px;
+}
+
+.main_cta {
+    background: #fff;
+    padding: 10px 20px;
+    border: none;
+    outline: none;
+    font-size: 20px;
+    text-transform: uppercase;
+    border-radius: 6px;
+    color: #B669C6
+}
+
+.phone_image {
+    float: right;
+    padding-right: 80px;
+}
